@@ -28,8 +28,6 @@
             quick_tap_ms = <175>;
             flavor = "balanced";
             bindings = <&mo>, <&kp>;
-
-            require-prior-idle-ms = <125>;
         };
     };
 
