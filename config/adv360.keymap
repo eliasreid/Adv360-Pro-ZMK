@@ -49,8 +49,8 @@
             bindings = <
 &trans  &trans     &trans        &trans    &trans     &trans  &trans                                                     &trans  &trans    &trans         &trans        &trans     &trans   &trans
 &trans  &trans     &trans        &trans    &trans     &trans  &kp Y                                                      &trans  &trans    &trans         &trans        &trans     &trans   &trans
-&trans  &trans     &trans        &trans    &trans     &trans  &kp H         &trans     &kp NUMBER_8      &trans  &trans  &trans  &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp END  &trans
-&trans  &trans     &trans        &trans    &trans     &trans                           &kp N9            &trans                  &kp F4    &kp PAGE_DOWN  &kp PAGE_UP   &trans     &trans   &trans
+&trans  &trans     &kp S         &kp D     &kp F      &trans  &kp H         &trans     &kp NUMBER_8      &trans  &trans  &trans  &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &kp END  &trans
+&trans  &trans     &kp X         &trans    &trans     &trans                           &kp N9            &trans                  &kp F4    &kp PAGE_DOWN  &kp PAGE_UP   &trans     &trans   &trans
 &trans  &kp GRAVE  &kp LEFT_ALT  &kp LEFT  &kp RIGHT          &kp NUMBER_6  &kp SPACE  &kp NUMBER_0      &trans  &trans  &trans            &trans         &trans        &trans     &trans   &trans
             >;
 
